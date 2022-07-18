@@ -1,0 +1,74 @@
+[
+	{
+		"path": "permissions/create",
+		"displayName": "Permission Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/get",
+		"displayName": "Permission Lust",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/update/:id",
+		"displayName": "Permission update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "permissions/delete/:id",
+		"displayName": "Permission Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+
+	{
+		"path": "role/create",
+		"displayName": "Role Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/get",
+		"displayName": "Role List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/update/:id",
+		"displayName": "Role update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "role/delete/:id",
+		"displayName": "Role Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+
+	{
+		"path": "adminuser/create",
+		"displayName": "Admin User Create",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/get",
+		"displayName": "Admin User List",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/update/:id",
+		"displayName": "Admin User update",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/delete/:id",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/changePassword",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	},
+	{
+		"path": "adminuser/status",
+		"displayName": "Admin User Delete",
+		"createdBy": "610bde138803212f22d11e1c"
+	}
+]

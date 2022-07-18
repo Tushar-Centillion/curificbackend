@@ -1,0 +1,20 @@
+[
+	{
+		"role": "SUPER_USER",
+		"name": "superUser",
+		"email": "superUser#123@example.com",
+		"password": "superUser@123",
+		"createdBy": null,
+		"profileImage": null,
+		"firstLogin": false
+	},
+	{
+		"role": "DEVELOPER",
+		"name": "Developer",
+		"email": "developer#123@example.com",
+		"password": "developer@123",
+		"createdBy": null,
+		"profileImage": null,
+		"firstLogin": false
+	}
+]
